@@ -15,7 +15,7 @@
 
 **3_LSTM.py**：基于长短期记忆网络搭建深度模型进行流量预测的代码实现
 
-**4_CNN.py**：基于卷积神经网络搭建深度模型（MiniDeepst、MiniSTResNet、MiniSTResNet+Dropout）进行流量预测的代码实现
+**4_DeepST.py**：基于卷积神经网络搭建深度模型（MiniDeepst、MiniSTResNet、MiniSTResNet+Dropout）进行流量预测的代码实现
 
 **5_ConvLSTM**：基于卷积长短期记忆网络搭建模型（ConvLSTM、ConvLSTM+Dropout）进行流量预测的代码实现
 
@@ -68,7 +68,7 @@ python 2_ARIMA.py
 ```
 python 3_LSTM.py
 ```
-### 4、使用CNN模型进行流量预测
+### 4、使用DeepST模型进行流量预测
 在项目根目录下执行下列指令
 ```
 python 4_DeepST.py
