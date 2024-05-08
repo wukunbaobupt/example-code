@@ -34,7 +34,7 @@
 # 三、运行准备
 需要安装pycharm和Anaconda，参考教程：http://t.csdnimg.cn/OjXH3
 若想运行本项目的代码，你需要：\
-使用pycharm打开工程文件
+使用pycharm打开工程文件，
 打开终端，使用conda命令创建虚拟环境
 ```
 conda create -n 虚拟环境名称 python=3.8 
