@@ -33,7 +33,7 @@
 
 # 三、运行准备
 若想运行本项目的代码，你需要：\
-打开终端，使用conda命令创建虚拟环境\
+打开终端，使用conda命令创建虚拟环境（需要安装Anaconda，参考教程：http://t.csdnimg.cn/ONwxl）
 ```
 conda create -n 虚拟环境名称 python=3.8 
 ```
