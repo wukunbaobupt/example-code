@@ -71,7 +71,7 @@ python 3_LSTM.py
 ### 4、使用CNN模型进行流量预测
 在项目根目录下执行下列指令
 ```
-python 4_CNN.py
+python 4_DeepST.py
 ```
 ## 探索篇
 ### 5、使用ConvLSTM模型进行流量预测
